@@ -13,10 +13,10 @@ de Minecraft.<h6>
   
 ### CONTACTO
   
-  - Discord: I am 240ms_#4368 <img src="https://img.icons8.com/plasticine/25/000000/discord-new-logo.png"/>
-  - Instagram: I am 240ms_ <img src="https://img.icons8.com/fluency/25/000000/instagram-check-mark.png"/>
-  - GitHub: https://github.com/Iam240ms <img src="https://img.icons8.com/windows/25/000000/github.png"/>
-  - E-Mail: iam240ms@gmail.com <img src="https://img.icons8.com/fluency/25/000000/new-post.png"/>
+  - Discord: I am 240ms_#4368 
+  - Instagram: I am 240ms_ 
+  - GitHub: https://github.com/Iam240ms 
+  - E-Mail: iam240ms@gmail.com 
 
 ### MI PERSONA
   
