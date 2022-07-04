@@ -24,3 +24,4 @@ de Minecraft.<h6>
 <h6> Me gusta mucho pasar tiempo con amigos, me considero una persona paciente, timido y amistosa. Soy capaz de realizar trabajos bajo presion, respeto tiempo y forma de lo que deba entregar, llegando a cumplir las expectativas esperadas o incluso superándolas.<h6> 
   
 
+<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="240ms_ image"/>
